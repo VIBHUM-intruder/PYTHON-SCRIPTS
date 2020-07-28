@@ -1,4 +1,4 @@
-#try block to prevent ValueError and other errors if any
+#try block to prevent ValueError and other errors if any of em are there
 
 try :
     
